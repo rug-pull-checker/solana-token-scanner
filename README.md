@@ -1,5 +1,7 @@
 <h1 style="color: #e74c3c; text-align: center;">Solana Token Scanner & Rug Pull Checker</h1>
 
+![main](https://raw.githubusercontent.com/rug-pull-checker/dasd/refs/heads/main/screen.jpg)
+
 <h2 style="color: #3498db; border-bottom: 2px solid #e74c3c; padding-bottom: 5px;">Description</h2>
 <p>Welcome to our project <strong>Solana Token Scanner & Rug Pull Checker</strong>! Our program is designed to analyze tokens in the Solana ecosystem, providing users with powerful tools to check the security and reliability of tokens. In the rapidly evolving world of cryptocurrencies, where the risks of fraud and <span style="color: #e74c3c; font-weight: bold;">"rug pulls"</span> are becoming increasingly relevant, we offer a solution that will help you make informed decisions.</p>
 
