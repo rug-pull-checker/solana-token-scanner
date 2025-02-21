@@ -12,7 +12,7 @@
 <div style="background-color: #e67e22; color: #fff; padding: 10px; border-radius: 5px; margin: 10px 0;">
     <ol>
         <li>
-            <strong>Solana Token Scanner</strong><br>
+            <strong>Solana meme coin checker</strong><br>
             Our program allows users to scan tokens on the Solana platform, providing information about current transactions, trading volumes, and other key metrics. This will help you better understand the market situation and choose the most promising tokens.
         </li>
         <li>
