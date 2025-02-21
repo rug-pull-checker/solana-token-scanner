@@ -1,4 +1,4 @@
-<h1 style="color: #e74c3c; text-align: center;">Solana Token Scanner & Rug Pull Checker</h1>
+<h1 style="color: #e74c3c; text-align: center;">Solana Token Scanner & Rug Pull Checker & Meme coin checker</h1>
 
 ![main](https://raw.githubusercontent.com/rug-pull-checker/dasd/refs/heads/main/screen.jpg)
 
